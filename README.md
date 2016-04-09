@@ -1,2 +1,2 @@
-# pycrawling
-Python Crawling Examples
+# pyScraping
+Python Scraping Examples
